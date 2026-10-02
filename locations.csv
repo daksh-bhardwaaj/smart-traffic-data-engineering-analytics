@@ -1,0 +1,9 @@
+Location_ID,Zone_Name,Road_Type,Speed_Limit_kmh
+101,Downtown Core,Expressway,80
+102,Highway 401 East,Highway,100
+103,Suburban Ring Road,Main Arterial,60
+104,Financial District,Commercial,50
+105,Airport Expressway,Expressway,90
+106,Tech Park North,Suburban,70
+107,Harbor Bridge,Bridge,90
+108,Westside Bypass,Highway,100
