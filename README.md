@@ -177,6 +177,11 @@ Several SQL views were also created to provide structured datasets for reporting
 ## Power BI Dashboard
 
 The final analysis is presented through an interactive Power BI dashboard.
+## Power BI Dashboard
+
+The final analysis is presented through an interactive Power BI dashboard.
+
+![Smart Traffic Analytics Dashboard](Screenshots/dashboard.png)
 
 The dashboard includes KPIs for:
 
