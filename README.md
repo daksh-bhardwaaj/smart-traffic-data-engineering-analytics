@@ -26,7 +26,7 @@ Power BI Dashboard
 
 ## Dataset
 
-The original dataset is stored in:
+The original Dataset is stored in:
 
 `smart_traffic_dataset-v2.xlsx`
 
